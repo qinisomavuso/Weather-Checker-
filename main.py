@@ -65,8 +65,8 @@ def display_weather(data):
 # -----------------------------
 if __name__ == "__main__":
     print("Weather App")
-    print("1. CLI Interface")
-    print("2. GUI Interface")
+    print("1. Command-Line Interface (CLI) ")
+    print("2. Graphical User Interface (GUI)")
     print("3. Simple Test (Cape Town)")
     
     choice = input("Choose an option: ")
